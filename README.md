@@ -35,6 +35,8 @@ Python script for data processing
 
 Generated PDF report
 
+<img width="723" height="766" alt="Image" src="https://github.com/user-attachments/assets/55f73e81-5cbb-4649-b51a-d4d23246eded" />
+
 ## Learning Outcomes
 
 File reading and data processing
