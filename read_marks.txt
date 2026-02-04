@@ -1,0 +1,6 @@
+file = open("marks.txt", "r")
+
+data = file.readlines()
+file.close()
+
+print(data)
